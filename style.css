@@ -1,0 +1,45 @@
+body {
+    background: #3498db
+    font-family: "Garamond", "Helvetica Neue", "Arial", sans-serif;
+}
+h2 {
+  color: rgb(45, 30, 91)
+}
+
+.ed experiment {
+    color: rgb(100, 50, 255)
+}
+
+.contact{
+  color:black;
+  padding:10px;
+}
+
+.mydiv {
+    background: rgb: (255, 255, 255)
+    padding: 100px
+}
+.sally {
+  width: 70%;
+  margin: 32px auto;
+  background: #ecf0f1;
+  padding: 32px;
+  border: 50px solid #2980b9;
+}
+
+h4{
+  float: left;
+  margin: 0;
+}
+
+span{
+  display: inline-block;
+  float: right;
+}
+
+ul{
+  clear: both
+}
+h2{
+  clear: both
+}
